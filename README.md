@@ -56,13 +56,13 @@ $ git clone https://github.com/Cyber-ALAMiN/cyber-old.git
 #### RUN SCRIPT
 ```python
 $ cd cyber-old
-$ python2 Cyber-Old.py
+$ python Cyber-Old.py
 ```
 
 #### [~] SINGLE COMMAND
 
 ```python
-apt update -y ; apt upgrade -y ; apt install python2 -y ; pip2 install requests ; pip2 install mechanize ; pip2 install lolcat ; pip2 install bs4 ; apt install git -y ; git clone https://github.com/Cyber-ALAMiN/cyber-old ; cd cyber-old ; python2 Cyber-Old.py
+apt update -y ; apt upgrade -y ; apt install python2 -y ; pip2 install requests ; pip2 install mechanize ; pip2 install lolcat ; pip2 install bs4 ; apt install git -y ; git clone https://github.com/Cyber-ALAMiN/cyber-old ; cd cyber-old ; python Cyber-Old.py
 ```
 <b>DOWNLOAD ACCESS TOKEN APK</b><br>
  <a href="https://play.google.com/store/apps/details?id=com.proit.thaison.getaccesstokenfacebook">  DOWNLOAD</a>
